@@ -5,10 +5,12 @@ This CLI tool provides calculations related to radio frequency systems. It inclu
 ## Usage
 
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/radio-calculations-cli.git
-cd radio-calculations-cli
 
-## Run 
 ```bash
-python3 multitool.py
+  git clone https://github.com/your-username/radio-calculations-cli.git
+  cd radio-calculations-cli
+  python3 multitool.py
+
+
+
+
