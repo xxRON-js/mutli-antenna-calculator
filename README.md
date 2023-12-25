@@ -11,5 +11,5 @@ This CLI tool provides calculations related to radio frequency systems. It inclu
    cd radio-calculations-cli
 ## Run 
   
-  ```bash
+   ```bash
    python3 multitool.py
