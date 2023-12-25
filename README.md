@@ -4,7 +4,7 @@ This CLI tool provides calculations related to radio frequency systems. It inclu
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository and run:
 
 ```bash
   git clone https://github.com/your-username/radio-calculations-cli.git
