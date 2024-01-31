@@ -7,7 +7,7 @@ This CLI tool provides calculations related to radio frequency systems. It inclu
 1. Clone the repository and run:
 
 ```bash
-  git clone https://github.com/your-username/radio-calculations-cli.git
+  git clone https://github.com/xxRON-js/mutli-antenna-calculator.git
   cd radio-calculations-cli
   python3 multitool.py
 
